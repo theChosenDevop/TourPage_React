@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;600;700;900&family=Varela&display=swap');
+body{
+  margin: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+.App {
+  text-align: center;
+}
+
+
+
+
